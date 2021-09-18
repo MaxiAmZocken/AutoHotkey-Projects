@@ -9,7 +9,7 @@ Gui, Add, Button, w200 h30 gOpenTemp1, Temp1 Folder
 Gui, Add, Button, w200 h30 gOpenTemp2, Temp2 Folder
 Gui, Add, Button, w200 h30 gOpenDownload, Downloads Folder
 Gui, Add, Button, w200 h30 gOpenYoutube, Youtube Folder
-Gui, Show,, Folder Opener
+Gui, Show, x1600 y200, Folder Opener
 Return
 
 ;Labels
