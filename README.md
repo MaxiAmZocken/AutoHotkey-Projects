@@ -15,7 +15,7 @@ A small program that lets you open a few folders, it's pretty useful for me, but
 Location : https://github.com/MaxiAmZocken/AutoHotkey-Projects/blob/main/Small%20Shortcuts/Folder%20Opener.ahk
 
 ### (Opera) Edit Websites without Inspect.ahk
-With this little (it's only a few lines long), you are able to edit the web like a text editor (only works for opera i think)
+With this little (it's only a few lines long), you are able to edit the web like a text editor (only works for opera i think) <br/>
 (You could just open the console and type document.designMode = "on", but this is more fancy
 
 ![Opera Edit Websites without Inspect](https://github.com/MaxiAmZocken/Recources/blob/main/Opera%20GIF%20Dings%20(1).gif)
