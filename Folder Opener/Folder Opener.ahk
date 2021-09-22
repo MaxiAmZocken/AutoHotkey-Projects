@@ -3,6 +3,7 @@
 ;but you can use this as a template to create your own folder opener
 
 ;Gui
+Gui, Add, Picture, , Folder Opener Banner.png
 Gui, Add, Button, w200 h30 gOpenGit,  Git Folder
 Gui, Add, Button, w200 h30 gOpenPy,  Python Folder
 Gui, Add, Button, w200 h30 gOpenTemp1, Temp1 Folder
