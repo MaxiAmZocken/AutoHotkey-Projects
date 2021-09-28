@@ -3,13 +3,14 @@
 ;but you can use this as a template to create your own folder opener
 
 ;Gui
-Gui, Add, Picture, , Folder Opener Banner.png
+Gui, Add, Picture, , Sources\Folder Opener Banner.png
 Gui, Add, Button, w200 h30 gOpenGit,  Git Folder
 Gui, Add, Button, w200 h30 gOpenPy,  Python Folder
 Gui, Add, Button, w200 h30 gOpenTemp1, Temp1 Folder
 Gui, Add, Button, w200 h30 gOpenTemp2, Temp2 Folder
 Gui, Add, Button, w200 h30 gOpenDownload, Downloads Folder
 Gui, Add, Button, w200 h30 gOpenYoutube, Youtube Folder
+Gui, Add, Picture, , Sources\GitHub Promo Banner.png
 Gui, Show, x1600 y200, Folder Opener
 Return
 
