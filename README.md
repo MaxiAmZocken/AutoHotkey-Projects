@@ -9,7 +9,7 @@ Sometimes (if steam is in autostart) it starts and looks up in the taskbar as a 
 
 A small program that lets you open a few folders, it's pretty useful for me, but if you want to use it for yourself, you need to change everything like folder locations to your own
 
-![Folder Opener](https://i.imgur.com/ITca9I7.png)
+![Folder Opener](https://i.imgur.com/kk2SPef.png)
 
 ### [(Opera) Edit Websites without Inspect.ahk](https://github.com/MaxiAmZocken/AutoHotkey-Projects/blob/main/Small%20Shortcuts/(Opera)%20Edit%20Websites%20without%20Inspect.ahk)
 With this little (it's only a few lines long), you are able to edit the web like a text editor (only works for opera i think) <br/>
