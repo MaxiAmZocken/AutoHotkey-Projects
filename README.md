@@ -11,7 +11,7 @@ A small program that lets you open a few folders, it's pretty useful for me, but
 
 ![Folder Opener](https://i.imgur.com/kk2SPef.png)
 
-###[Download Programs.ahk](https://github.com/MaxiAmZocken/AutoHotkey-Projects/tree/main/Download%20Programs)
+### [Download Programs.ahk](https://github.com/MaxiAmZocken/AutoHotkey-Projects/tree/main/Download%20Programs)
 
 A small program that lets you simply open the download sites to download stuff quicker on new pc's
 
