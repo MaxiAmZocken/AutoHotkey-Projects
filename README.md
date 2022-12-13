@@ -3,7 +3,10 @@ Here you can find a few AutoHotkey Projects I made, most of them are pretty easy
 Autohotkey Download : https://www.autohotkey.com/
 
 ### [Steam Startup Fix.ahk](https://github.com/MaxiAmZocken/AutoHotkey-Projects/blob/main/Steam%20Startup%20Fix.ahk)
-Sometimes (if steam is in autostart) it starts and looks up in the taskbar as a tray icon, but won't show up as a window, if you click it. This ahk-script is killing the process and starting steam up again, this usually fixes the problem <br/>
+Sometimes (if steam is in autostart) it starts and looks up in the taskbar as a tray icon, but won't show up as a window, if you click it. This ahk-script is killing the process and starting steam up again, which usually fixes the problem <br/>
+
+### [WhatsApp Closer.ahk](https://github.com/MaxiAmZocken/AutoHotkey-Projects/blob/main/WhatsApp%20Closer.ahk)
+Sometimes WhatsApp just randomly starts but isn't and I don't need it and instead of right clicking and clicking close I wrote this small script <br/>
 
 ### [Folder Opener.ahk](https://github.com/MaxiAmZocken/AutoHotkey-Projects/blob/main/Folder%20Opener/Folder%20Opener.ahk)
 
